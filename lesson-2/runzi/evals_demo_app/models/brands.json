@@ -1,0 +1,34 @@
+{
+  "brands": [
+    {
+      "brand_id": "nyxon",
+      "brand_name": "Nyxon Running Co.",
+      "slogan": "Go farther on less effort.",
+      "brand_story": "Born in a sprint lab, tuned on long roads—Nyxon blends airy uppers with high-rebound midsoles for fast-feeling everyday miles."
+    },
+    {
+      "brand_id": "adizone",
+      "brand_name": "Adizone Performance",
+      "slogan": "Built light. Built fast.",
+      "brand_story": "Adizone focuses on featherweight constructions and propulsion systems to turn training cycles into PRs."
+    },
+    {
+      "brand_id": "hokaro",
+      "brand_name": "Hokaro Lab",
+      "slogan": "Max cushion, minimal effort.",
+      "brand_story": "Hokaro chases ‘big cushion, light weight’ with exaggerated rockers to keep strides rolling."
+    },
+    {
+      "brand_id": "saukion",
+      "brand_name": "Saukion Athletics",
+      "slogan": "Speed, simplified.",
+      "brand_story": "Saukion designs rocker-forward road shoes with distinct speed tiers for training through race day."
+    },
+    {
+      "brand_id": "brukes",
+      "brand_name": "Brukes RunLab",
+      "slogan": "Comfort that can move.",
+      "brand_story": "Brukes blends stable platforms with lively foams to keep everyday runners consistent and confident."
+    }
+  ]
+}

@@ -2,11 +2,16 @@
 
 This repo contains all the example code needed for the Eval Engineering for AI Developers course taught by Galileo.
 
+## Watch past lessons
+
+You can catch recordings of all the past lessons on the [Galileo YouTube Channel](https://www.youtube.com/@rungalileo).
+
+[![Lesson 1](./images/eval-engineering-thumbnail-1.png)](https://www.youtube.com/live/HnDnMFUTj2Y)
+
 ## Sign up for the lessons
 
-You can sign up for the 5 lessons for the first cohort from these links:
+You can sign up for the remaining lessons for the first cohort from these links:
 
-[![Lesson 1](./images/eval-engineering-lesson-1.png)](https://luma.com/6q19vpzb)
 [![Lesson 2](./images/eval-engineering-lesson-2.png)](https://luma.com/vmcrtnkx)
 [![Lesson 3](./images/eval-engineering-lesson-3.png)](https://luma.com/3k99shl1)
 [![Lesson 4](./images/eval-engineering-lesson-4.png)](https://luma.com/x2ztpa4f)
@@ -26,7 +31,7 @@ To set up each example, you will need to:
 
 - Clone this repo
 - Create a new virtual environment
-- Install the packages defined in the `requirements.txt` file in each repo
+- Install the packages defined in the `requirements.txt` or `pyproject.toml` file in each repo
 - Copy the provided `.env.example` files to `.env`
 - Fill in the relevant details in the `.env` file
 
@@ -39,3 +44,4 @@ This repo contains Python code for the course, broken down by lesson and section
 | 1      | Basic chatbot      | [Code](./lesson-1/1-basic-chatbot/) |
 | 1      | Chatbot with evals | [Code](./lesson-1/2-chatbot-with-evals/) |
 | 1      | Fixed chatbot      | [Code](./lesson-1/3-fixed-chatbot/) |
+| 2      | Runzi              | [Code](./lesson-2/runzi/) |

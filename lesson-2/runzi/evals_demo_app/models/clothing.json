@@ -1,0 +1,940 @@
+{
+  "clothing": [
+    {
+      "brand_id": "nyxon",
+      "type": "running_shorts",
+      "name": "Velocity Sprint Shorts",
+      "id": "velocity-sprint-shorts",
+      "price": 44.99,
+      "description": "Lightweight 5-inch running shorts engineered with moisture-wicking fabric and reflective electric blue accents. Features an internal drawcord, zippered pocket, and seamless construction for chafe-free performance.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Electric Blue/White",
+          "primary": "electric blue",
+          "accent": "white"
+        },
+        {
+          "name": "Deep Charcoal/Neon Lime",
+          "primary": "deep charcoal",
+          "accent": "neon lime"
+        },
+        {
+          "name": "White/Electric Blue",
+          "primary": "white",
+          "accent": "electric blue"
+        }
+      ],
+      "inseam_options": [
+        "5 inch",
+        "7 inch"
+      ]
+    },
+    {
+      "brand_id": "nyxon",
+      "type": "running_shirt_short_sleeve",
+      "name": "FlashDry Performance Tee",
+      "id": "flashdry-performance-tee",
+      "price": 34.99,
+      "description": "Ultra-breathable short sleeve running shirt with advanced moisture management technology. Constructed from recycled materials with flatlock seams and strategic ventilation zones. Bold neon lime contrast stitching provides 360-degree visibility.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Neon Lime/Deep Charcoal",
+          "primary": "neon lime",
+          "accent": "deep charcoal"
+        },
+        {
+          "name": "Electric Blue/White",
+          "primary": "electric blue",
+          "accent": "white"
+        },
+        {
+          "name": "Deep Charcoal/Electric Blue",
+          "primary": "deep charcoal",
+          "accent": "electric blue"
+        }
+      ],
+      "fit_options": [
+        "Slim Fit",
+        "Regular Fit"
+      ]
+    },
+    {
+      "brand_id": "nyxon",
+      "type": "running_tights",
+      "name": "PowerFlex Compression Tights",
+      "id": "powerflex-compression-tights",
+      "price": 79.99,
+      "description": "Full-length compression tights with graduated compression zones to enhance blood flow and reduce muscle fatigue. Features secure zippered pockets, reflective details in electric blue, and moisture-wicking fabric with four-way stretch.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Deep Charcoal/Electric Blue",
+          "primary": "deep charcoal",
+          "accent": "electric blue"
+        },
+        {
+          "name": "Black/Neon Lime",
+          "primary": "black",
+          "accent": "neon lime"
+        },
+        {
+          "name": "White/Electric Blue",
+          "primary": "white",
+          "accent": "electric blue"
+        }
+      ],
+      "length_options": [
+        "Full Length",
+        "7/8 Length",
+        "Capri"
+      ]
+    },
+    {
+      "brand_id": "nyxon",
+      "type": "socks",
+      "name": "ElectroLite Running Socks",
+      "id": "electrolite-running-socks",
+      "price": 12.99,
+      "description": "Technical running socks with targeted cushioning at heel and forefoot. Features arch support band, seamless toe construction, and moisture-wicking merino wool blend. Electric blue and neon lime colorways ensure standout style.",
+      "sizes": [
+        "S (5-7)",
+        "M (7.5-9.5)",
+        "L (10-12)",
+        "XL (12.5-14)"
+      ],
+      "color_options": [
+        {
+          "name": "Electric Blue/Neon Lime",
+          "primary": "electric blue",
+          "accent": "neon lime"
+        },
+        {
+          "name": "Deep Charcoal/Electric Blue",
+          "primary": "deep charcoal",
+          "accent": "electric blue"
+        },
+        {
+          "name": "White/Neon Lime",
+          "primary": "white",
+          "accent": "neon lime"
+        }
+      ],
+      "height_options": [
+        "No Show",
+        "Ankle",
+        "Crew"
+      ]
+    },
+    {
+      "brand_id": "nyxon",
+      "type": "jacket",
+      "name": "StormShield Wind Runner",
+      "id": "stormshield-wind-runner",
+      "price": 119.99,
+      "description": "Packable wind-resistant jacket with water-repellent coating perfect for unpredictable weather. Features adjustable hood, elastic cuffs, and multiple secure pockets. High-contrast electric blue panels and reflective elements provide maximum visibility in low light.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Deep Charcoal/Electric Blue",
+          "primary": "deep charcoal",
+          "accent": "electric blue"
+        },
+        {
+          "name": "Neon Lime/White",
+          "primary": "neon lime",
+          "accent": "white"
+        },
+        {
+          "name": "Electric Blue/Deep Charcoal",
+          "primary": "electric blue",
+          "accent": "deep charcoal"
+        }
+      ],
+      "features": [
+        "Packable",
+        "Water Repellent",
+        "Reflective Details"
+      ]
+    },
+    {
+      "brand_id": "adizone",
+      "type": "sports_bra",
+      "name": "PowerHold Impact Bra",
+      "id": "powerhold-impact-bra",
+      "price": 49.99,
+      "description": "High-impact sports bra engineered for maximum support during intense runs. Features adjustable straps, removable padding, and breathable mesh panels. Signal orange accents and ice mint cooling technology ensure comfort and style.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Black/Signal Orange",
+          "primary": "black",
+          "accent": "signal orange"
+        },
+        {
+          "name": "White/Ice Mint",
+          "primary": "white",
+          "accent": "ice mint"
+        },
+        {
+          "name": "Signal Orange/Black",
+          "primary": "signal orange",
+          "accent": "black"
+        }
+      ],
+      "support_level": [
+        "High Impact"
+      ],
+      "features": [
+        "Adjustable Straps",
+        "Removable Cups",
+        "Moisture Wicking"
+      ]
+    },
+    {
+      "brand_id": "adizone",
+      "type": "running_shirt_long_sleeve",
+      "name": "Thermal Velocity Long Sleeve",
+      "id": "thermal-velocity-long-sleeve",
+      "price": 59.99,
+      "description": "Technical long sleeve running top with thermal regulation and thumbhole cuffs for hand coverage. Seamless construction minimizes chafing, while signal orange reflective elements ensure visibility. Perfect for cold-weather training.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Black/Signal Orange",
+          "primary": "black",
+          "accent": "signal orange"
+        },
+        {
+          "name": "Ice Mint/White",
+          "primary": "ice mint",
+          "accent": "white"
+        },
+        {
+          "name": "White/Black",
+          "primary": "white",
+          "accent": "black"
+        }
+      ],
+      "features": [
+        "Thumbholes",
+        "Thermal",
+        "Reflective Elements"
+      ]
+    },
+    {
+      "brand_id": "adizone",
+      "type": "running_tights",
+      "name": "AeroSpeed Training Tights",
+      "id": "aerospeed-training-tights",
+      "price": 89.99,
+      "description": "Aerodynamic full-length tights with compression zones engineered to support key muscle groups. Features multiple secure pockets, ankle zippers for easy on/off, and ice mint cooling stripes along the legs. Made from sustainable recycled materials.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Black/Signal Orange",
+          "primary": "black",
+          "accent": "signal orange"
+        },
+        {
+          "name": "Black/Ice Mint",
+          "primary": "black",
+          "accent": "ice mint"
+        },
+        {
+          "name": "White/Signal Orange",
+          "primary": "white",
+          "accent": "signal orange"
+        }
+      ],
+      "length_options": [
+        "Full Length",
+        "7/8 Length"
+      ]
+    },
+    {
+      "brand_id": "adizone",
+      "type": "hat",
+      "name": "AeroVent Running Cap",
+      "id": "aeroVent-running-cap",
+      "price": 24.99,
+      "description": "Lightweight running cap with laser-cut ventilation holes and moisture-wicking sweatband. Adjustable back closure ensures perfect fit, while signal orange reflective logo provides visibility. Quick-drying fabric ideal for all conditions.",
+      "sizes": [
+        "One Size Adjustable"
+      ],
+      "color_options": [
+        {
+          "name": "Black/Signal Orange",
+          "primary": "black",
+          "accent": "signal orange"
+        },
+        {
+          "name": "White/Ice Mint",
+          "primary": "white",
+          "accent": "ice mint"
+        },
+        {
+          "name": "Signal Orange/Black",
+          "primary": "signal orange",
+          "accent": "black"
+        }
+      ],
+      "features": [
+        "Moisture Wicking",
+        "Reflective Logo",
+        "Adjustable"
+      ]
+    },
+    {
+      "brand_id": "adizone",
+      "type": "gloves",
+      "name": "TouchPoint Running Gloves",
+      "id": "touchpoint-running-gloves",
+      "price": 29.99,
+      "description": "Lightweight running gloves with touchscreen-compatible fingertips and silicone grip patterns on palms. Reflective signal orange detailing on knuckles enhances visibility. Features moisture-wicking fabric and four-way stretch for natural movement.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color_options": [
+        {
+          "name": "Black/Signal Orange",
+          "primary": "black",
+          "accent": "signal orange"
+        },
+        {
+          "name": "Ice Mint/Black",
+          "primary": "ice mint",
+          "accent": "black"
+        },
+        {
+          "name": "White/Signal Orange",
+          "primary": "white",
+          "accent": "signal orange"
+        }
+      ],
+      "features": [
+        "Touchscreen Compatible",
+        "Reflective Details",
+        "Grip Pattern"
+      ]
+    },
+    {
+      "brand_id": "hokaro",
+      "type": "running_shirt_short_sleeve",
+      "name": "IceCool Performance Tee",
+      "id": "icecool-performance-tee",
+      "price": 34.99,
+      "description": "Advanced cooling technology meets minimalist design in this technical running tee. Features glacier blue contrast panels with citrus yellow accents for enhanced visibility. Ultra-soft fabric with anti-odor treatment and laser-cut ventilation.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Fog Grey/Glacier Blue",
+          "primary": "fog grey",
+          "accent": "glacier blue"
+        },
+        {
+          "name": "Black/Citrus Yellow",
+          "primary": "black",
+          "accent": "citrus yellow"
+        },
+        {
+          "name": "Glacier Blue/Fog Grey",
+          "primary": "glacier blue",
+          "accent": "fog grey"
+        }
+      ],
+      "fit_options": [
+        "Slim Fit",
+        "Regular Fit"
+      ]
+    },
+    {
+      "brand_id": "hokaro",
+      "type": "sports_bra",
+      "name": "GlacierFit Support Bra",
+      "id": "glacierfit-support-bra",
+      "price": 54.99,
+      "description": "Medium to high impact sports bra with innovative cooling channels and moisture-wicking technology. Glacier blue mesh panels provide breathability, while adjustable straps ensure a personalized fit. Reflective citrus yellow accents add safety.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Fog Grey/Glacier Blue",
+          "primary": "fog grey",
+          "accent": "glacier blue"
+        },
+        {
+          "name": "Black/Citrus Yellow",
+          "primary": "black",
+          "accent": "citrus yellow"
+        },
+        {
+          "name": "Glacier Blue/Black",
+          "primary": "glacier blue",
+          "accent": "black"
+        }
+      ],
+      "support_level": [
+        "Medium Impact",
+        "High Impact"
+      ]
+    },
+    {
+      "brand_id": "hokaro",
+      "type": "running_shorts",
+      "name": "FlowFlex Racing Shorts",
+      "id": "flowflex-racing-shorts",
+      "price": 39.99,
+      "description": "Lightweight split-leg racing shorts designed for speed with internal brief and multiple pockets. Citrus yellow reflective strips provide 360-degree visibility. Features moisture-wicking fabric and glacier blue contrast stitching.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Black/Citrus Yellow",
+          "primary": "black",
+          "accent": "citrus yellow"
+        },
+        {
+          "name": "Fog Grey/Glacier Blue",
+          "primary": "fog grey",
+          "accent": "glacier blue"
+        },
+        {
+          "name": "Glacier Blue/Citrus Yellow",
+          "primary": "glacier blue",
+          "accent": "citrus yellow"
+        }
+      ],
+      "inseam_options": [
+        "3 inch",
+        "5 inch",
+        "7 inch"
+      ]
+    },
+    {
+      "brand_id": "hokaro",
+      "type": "jacket",
+      "name": "ArcticShield Weather Jacket",
+      "id": "arcticshield-weather-jacket",
+      "price": 129.99,
+      "description": "Water-resistant running jacket with breathable membrane and packable design. Features adjustable hood with glacier blue trim, secure zippered pockets, and citrus yellow reflective details. Perfect for unpredictable mountain weather.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Fog Grey/Glacier Blue",
+          "primary": "fog grey",
+          "accent": "glacier blue"
+        },
+        {
+          "name": "Black/Citrus Yellow",
+          "primary": "black",
+          "accent": "citrus yellow"
+        },
+        {
+          "name": "Glacier Blue/Fog Grey",
+          "primary": "glacier blue",
+          "accent": "fog grey"
+        }
+      ],
+      "features": [
+        "Water Resistant",
+        "Packable",
+        "Breathable"
+      ]
+    },
+    {
+      "brand_id": "hokaro",
+      "type": "running_lights",
+      "name": "BrightPath Safety Lights",
+      "id": "brightpath-safety-lights",
+      "price": 34.99,
+      "description": "Rechargeable LED running lights with multiple brightness modes and weather-resistant design. Clips securely to clothing or gear with glacier blue housing. Features steady beam and flashing modes with up to 12 hours battery life.",
+      "sizes": [
+        "One Size"
+      ],
+      "color_options": [
+        {
+          "name": "Glacier Blue",
+          "primary": "glacier blue",
+          "light_color": "white"
+        },
+        {
+          "name": "Citrus Yellow",
+          "primary": "citrus yellow",
+          "light_color": "white"
+        },
+        {
+          "name": "Fog Grey",
+          "primary": "fog grey",
+          "light_color": "white"
+        }
+      ],
+      "modes": [
+        "Steady",
+        "Slow Flash",
+        "Fast Flash"
+      ],
+      "features": [
+        "Rechargeable",
+        "Weather Resistant",
+        "Clip-On Design"
+      ]
+    },
+    {
+      "brand_id": "saukion",
+      "type": "running_tights",
+      "name": "VoltCharge Compression Tights",
+      "id": "voltcharge-compression-tights",
+      "price": 84.99,
+      "description": "High-performance compression tights with volt green gradient design and targeted compression zones. Features reflective arctic blue accents, multiple secure pockets, and moisture-wicking fabric. Engineered to reduce muscle oscillation and enhance recovery.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Graphite/Volt Green",
+          "primary": "graphite",
+          "accent": "volt green"
+        },
+        {
+          "name": "Black/Arctic Blue",
+          "primary": "black",
+          "accent": "arctic blue"
+        },
+        {
+          "name": "White/Volt Green",
+          "primary": "white",
+          "accent": "volt green"
+        }
+      ],
+      "length_options": [
+        "Full Length",
+        "7/8 Length",
+        "Capri"
+      ]
+    },
+    {
+      "brand_id": "saukion",
+      "type": "running_shirt_long_sleeve",
+      "name": "ColdForce Thermal Top",
+      "id": "coldforce-thermal-top",
+      "price": 64.99,
+      "description": "Insulated long sleeve running top with brushed interior for warmth without bulk. Features volt green reflective details, thumbhole cuffs, and raglan sleeves for unrestricted movement. Perfect for cold weather training with moisture management.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Graphite/Volt Green",
+          "primary": "graphite",
+          "accent": "volt green"
+        },
+        {
+          "name": "Arctic Blue/White",
+          "primary": "arctic blue",
+          "accent": "white"
+        },
+        {
+          "name": "Black/Volt Green",
+          "primary": "black",
+          "accent": "volt green"
+        }
+      ],
+      "features": [
+        "Thermal",
+        "Thumbholes",
+        "Reflective Details"
+      ]
+    },
+    {
+      "brand_id": "saukion",
+      "type": "socks",
+      "name": "ArcticFlow Trail Socks",
+      "id": "arcticflow-trail-socks",
+      "price": 14.99,
+      "description": "Technical trail running socks with reinforced heel and toe areas for durability. Features moisture-wicking bamboo blend, compression arch support, and seamless construction. Arctic blue and volt green colorways with cushioned sole.",
+      "sizes": [
+        "S (5-7)",
+        "M (7.5-9.5)",
+        "L (10-12)",
+        "XL (12.5-14)"
+      ],
+      "color_options": [
+        {
+          "name": "Volt Green/Arctic Blue",
+          "primary": "volt green",
+          "accent": "arctic blue"
+        },
+        {
+          "name": "Graphite/Volt Green",
+          "primary": "graphite",
+          "accent": "volt green"
+        },
+        {
+          "name": "White/Arctic Blue",
+          "primary": "white",
+          "accent": "arctic blue"
+        }
+      ],
+      "height_options": [
+        "No Show",
+        "Ankle",
+        "Quarter Crew",
+        "Crew"
+      ]
+    },
+    {
+      "brand_id": "saukion",
+      "type": "hat",
+      "name": "VoltShield Running Visor",
+      "id": "voltshield-running-visor",
+      "price": 19.99,
+      "description": "Lightweight performance visor with moisture-wicking sweatband and UPF 50+ sun protection. Features volt green contrast stitching and reflective details. Adjustable closure ensures secure fit during high-intensity runs.",
+      "sizes": [
+        "One Size Adjustable"
+      ],
+      "color_options": [
+        {
+          "name": "Graphite/Volt Green",
+          "primary": "graphite",
+          "accent": "volt green"
+        },
+        {
+          "name": "White/Arctic Blue",
+          "primary": "white",
+          "accent": "arctic blue"
+        },
+        {
+          "name": "Volt Green/Graphite",
+          "primary": "volt green",
+          "accent": "graphite"
+        }
+      ],
+      "features": [
+        "UPF 50+",
+        "Moisture Wicking",
+        "Reflective Details"
+      ]
+    },
+    {
+      "brand_id": "saukion",
+      "type": "gloves",
+      "name": "ZeroFrost Running Gloves",
+      "id": "zerofrost-running-gloves",
+      "price": 39.99,
+      "description": "Insulated running gloves with windproof outer layer and soft fleece interior lining. Features touchscreen-compatible fingertips, volt green reflective accents, and silicone grip patches. Convertible mitten flap provides extra warmth when needed.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color_options": [
+        {
+          "name": "Graphite/Volt Green",
+          "primary": "graphite",
+          "accent": "volt green"
+        },
+        {
+          "name": "Black/Arctic Blue",
+          "primary": "black",
+          "accent": "arctic blue"
+        },
+        {
+          "name": "Arctic Blue/White",
+          "primary": "arctic blue",
+          "accent": "white"
+        }
+      ],
+      "features": [
+        "Insulated",
+        "Touchscreen Compatible",
+        "Convertible Mitten"
+      ]
+    },
+    {
+      "brand_id": "brukes",
+      "type": "running_shirt_short_sleeve",
+      "name": "ChromeLight Performance Tee",
+      "id": "chromelight-performance-tee",
+      "price": 44.99,
+      "description": "Premium technical running shirt with reflective chrome silver panels and glow yellow accents for maximum visibility. Features seamless construction, laser-cut ventilation, and anti-odor technology. Smoke grey mesh zones enhance breathability.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Indigo/Glow Yellow",
+          "primary": "indigo",
+          "accent": "glow yellow"
+        },
+        {
+          "name": "Smoke Grey/Chrome Silver",
+          "primary": "smoke grey",
+          "accent": "chrome silver"
+        },
+        {
+          "name": "White/Indigo",
+          "primary": "white",
+          "accent": "indigo"
+        }
+      ],
+      "fit_options": [
+        "Slim Fit",
+        "Regular Fit",
+        "Relaxed Fit"
+      ]
+    },
+    {
+      "brand_id": "brukes",
+      "type": "sports_bra",
+      "name": "RunLab Impact Bra",
+      "id": "runlab-impact-bra",
+      "price": 59.99,
+      "description": "High-performance sports bra engineered with motion-control technology and indigo mesh panels. Features adjustable straps, glow yellow reflective details, and removable padding. Chrome silver trim adds premium aesthetic appeal.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Indigo/Glow Yellow",
+          "primary": "indigo",
+          "accent": "glow yellow"
+        },
+        {
+          "name": "Smoke Grey/Chrome Silver",
+          "primary": "smoke grey",
+          "accent": "chrome silver"
+        },
+        {
+          "name": "Black/Glow Yellow",
+          "primary": "black",
+          "accent": "glow yellow"
+        }
+      ],
+      "support_level": [
+        "Medium Impact",
+        "High Impact"
+      ]
+    },
+    {
+      "brand_id": "brukes",
+      "type": "running_shorts",
+      "name": "LabRunner Split Shorts",
+      "id": "labrunner-split-shorts",
+      "price": 39.99,
+      "description": "Technical racing shorts with integrated brief liner and multiple storage pockets. Features glow yellow reflective strips, indigo contrast stitching, and ultra-lightweight fabric. Designed for speed with minimal weight and maximum ventilation.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Smoke Grey/Glow Yellow",
+          "primary": "smoke grey",
+          "accent": "glow yellow"
+        },
+        {
+          "name": "Indigo/Chrome Silver",
+          "primary": "indigo",
+          "accent": "chrome silver"
+        },
+        {
+          "name": "White/Indigo",
+          "primary": "white",
+          "accent": "indigo"
+        }
+      ],
+      "inseam_options": [
+        "3 inch",
+        "5 inch",
+        "7 inch"
+      ]
+    },
+    {
+      "brand_id": "brukes",
+      "type": "jacket",
+      "name": "StormLab Weather Shell",
+      "id": "stormlab-weather-shell",
+      "price": 139.99,
+      "description": "Premium packable running jacket with waterproof-breathable membrane and adjustable fit system. Features glow yellow reflective elements, chrome silver zippers, and indigo contrast panels. Includes integrated storage pocket for compact carry.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color_options": [
+        {
+          "name": "Indigo/Glow Yellow",
+          "primary": "indigo",
+          "accent": "glow yellow"
+        },
+        {
+          "name": "Smoke Grey/Chrome Silver",
+          "primary": "smoke grey",
+          "accent": "chrome silver"
+        },
+        {
+          "name": "White/Indigo",
+          "primary": "white",
+          "accent": "indigo"
+        }
+      ],
+      "features": [
+        "Waterproof",
+        "Breathable",
+        "Packable",
+        "Reflective"
+      ]
+    },
+    {
+      "brand_id": "brukes",
+      "type": "running_lights",
+      "name": "GlowLab Safety Pack",
+      "id": "glowlab-safety-pack",
+      "price": 49.99,
+      "description": "Dual LED safety light system with multiple mounting options and rechargeable batteries. Chrome silver housing with glow yellow accent trim. Features five lighting modes including strobe, pulse, and steady beam. Water-resistant design rated for all weather conditions.",
+      "sizes": [
+        "One Size"
+      ],
+      "color_options": [
+        {
+          "name": "Chrome Silver",
+          "primary": "chrome silver",
+          "light_color": "white"
+        },
+        {
+          "name": "Glow Yellow",
+          "primary": "glow yellow",
+          "light_color": "white"
+        },
+        {
+          "name": "Indigo",
+          "primary": "indigo",
+          "light_color": "white"
+        }
+      ],
+      "modes": [
+        "Steady",
+        "Pulse",
+        "Fast Flash",
+        "Slow Flash",
+        "Strobe"
+      ],
+      "features": [
+        "Rechargeable",
+        "Water Resistant",
+        "Multiple Mount Options",
+        "USB-C Charging"
+      ]
+    }
+  ]
+}

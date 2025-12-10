@@ -1,0 +1,531 @@
+{
+  "races": [
+    {
+      "id": "race_001",
+      "name": "Thanksgiving Turkey Trot",
+      "type": "fun_run",
+      "distances": ["5K"],
+      "location": {
+        "city": "Portland",
+        "state": "Oregon",
+        "venue": "Tom McCall Waterfront Park"
+      },
+      "date": "2025-11-27",
+      "time": "08:00",
+      "terrain": ["road"],
+      "description": "Start your Thanksgiving with a festive 5K! Costumes encouraged, and every finisher gets a turkey-themed medal.",
+      "expected_attendance": 3500,
+      "registration_fee": 35,
+      "features": ["costume_contest", "family_friendly", "post_race_breakfast"]
+    },
+    {
+      "id": "race_002",
+      "name": "Santa's Sleigh Dash",
+      "type": "fun_run",
+      "distances": ["10K"],
+      "location": {
+        "city": "Denver",
+        "state": "Colorado",
+        "venue": "City Park"
+      },
+      "date": "2025-12-14",
+      "time": "09:00",
+      "terrain": ["road"],
+      "description": "Join thousands of Santas for a jolly 10K through downtown Denver. Santa suits provided!",
+      "expected_attendance": 5000,
+      "registration_fee": 45,
+      "features": ["santa_suit_included", "hot_cocoa_station", "toy_donation_drive"]
+    },
+    {
+      "id": "race_003",
+      "name": "New Year Resolution Run",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Austin",
+        "state": "Texas",
+        "venue": "Lady Bird Lake Trail"
+      },
+      "date": "2026-01-03",
+      "time": "07:30",
+      "terrain": ["road"],
+      "description": "Kick off 2026 with a scenic run around Lady Bird Lake. Choose your distance and start the year strong!",
+      "expected_attendance": 4200,
+      "registration_fee": {
+        "5K": 40,
+        "10K": 50,
+        "half_marathon": 75
+      },
+      "features": ["chip_timing", "finisher_medals", "live_music"]
+    },
+    {
+      "id": "race_004",
+      "name": "Coastal Trail Challenge",
+      "type": "trail_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "San Diego",
+        "state": "California",
+        "venue": "Torrey Pines State Reserve"
+      },
+      "date": "2026-02-14",
+      "time": "07:00",
+      "terrain": ["trail"],
+      "description": "Experience breathtaking ocean views on this challenging trail course with significant elevation gain.",
+      "expected_attendance": 1800,
+      "registration_fee": {
+        "5K": 45,
+        "10K": 55,
+        "half_marathon": 85
+      },
+      "features": ["technical_terrain", "aid_stations", "post_race_beach_party"],
+      "elevation_gain": {
+        "5K": 400,
+        "10K": 750,
+        "half_marathon": 1200
+      }
+    },
+    {
+      "id": "race_005",
+      "name": "Cherry Blossom Classic",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Washington",
+        "state": "DC",
+        "venue": "National Mall"
+      },
+      "date": "2026-03-28",
+      "time": "08:00",
+      "terrain": ["road"],
+      "description": "Run past iconic monuments during peak cherry blossom season in the nation's capital.",
+      "expected_attendance": 8500,
+      "registration_fee": {
+        "5K": 50,
+        "10K": 60,
+        "half_marathon": 90
+      },
+      "features": ["scenic_route", "professional_timing", "VIP_lounge", "live_entertainment"]
+    },
+    {
+      "id": "race_006",
+      "name": "Mountain View Marathon Series",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Boulder",
+        "state": "Colorado",
+        "venue": "Boulder Creek Path"
+      },
+      "date": "2026-04-18",
+      "time": "07:00",
+      "terrain": ["road"],
+      "description": "Fast, flat course with stunning Rocky Mountain views. Perfect for PRs and Boston qualifiers.",
+      "expected_attendance": 3200,
+      "registration_fee": {
+        "5K": 45,
+        "10K": 55,
+        "half_marathon": 80
+      },
+      "features": ["boston_qualifier", "altitude_training", "craft_beer_finish"]
+    },
+    {
+      "id": "race_007",
+      "name": "Lakefront Spring Sprint",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Chicago",
+        "state": "Illinois",
+        "venue": "Lakefront Trail"
+      },
+      "date": "2026-05-09",
+      "time": "07:30",
+      "terrain": ["road"],
+      "description": "Run along beautiful Lake Michigan on this fast, flat course through the heart of Chicago.",
+      "expected_attendance": 12000,
+      "registration_fee": {
+        "5K": 48,
+        "10K": 58,
+        "half_marathon": 88
+      },
+      "features": ["lakefront_views", "gear_check", "post_race_festival"]
+    },
+    {
+      "id": "race_008",
+      "name": "Desert Heat Challenge",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "venue": "Papago Park"
+      },
+      "date": "2026-02-07",
+      "time": "06:30",
+      "terrain": ["road"],
+      "description": "Early morning start to beat the heat. Run through desert scenery with cacti-lined paths.",
+      "expected_attendance": 2800,
+      "registration_fee": {
+        "5K": 42,
+        "10K": 52,
+        "half_marathon": 78
+      },
+      "features": ["early_start", "hydration_focused", "desert_scenery"]
+    },
+    {
+      "id": "race_009",
+      "name": "Pacific Northwest Trails",
+      "type": "mixed_terrain",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Seattle",
+        "state": "Washington",
+        "venue": "Discovery Park"
+      },
+      "date": "2026-06-13",
+      "time": "08:00",
+      "terrain": ["road", "trail"],
+      "description": "Experience the best of Seattle with a mix of paved paths and forest trails, ending at a beach overlook.",
+      "expected_attendance": 3600,
+      "registration_fee": {
+        "5K": 46,
+        "10K": 56,
+        "half_marathon": 82
+      },
+      "features": ["mixed_terrain", "forest_trails", "beach_views", "coffee_finish_line"]
+    },
+    {
+      "id": "race_010",
+      "name": "Historic Harbor Run",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "venue": "Boston Harbor"
+      },
+      "date": "2026-07-04",
+      "time": "07:00",
+      "terrain": ["road"],
+      "description": "Celebrate Independence Day with a patriotic run through historic Boston. Fireworks viewing party afterwards!",
+      "expected_attendance": 6500,
+      "registration_fee": {
+        "5K": 52,
+        "10K": 62,
+        "half_marathon": 92
+      },
+      "features": ["july_4th_celebration", "historic_sites", "fireworks_party", "americana_theme"]
+    },
+    {
+      "id": "race_011",
+      "name": "Fall Foliage Festival Run",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Burlington",
+        "state": "Vermont",
+        "venue": "Lake Champlain Bikeway"
+      },
+      "date": "2026-10-03",
+      "time": "08:30",
+      "terrain": ["road"],
+      "description": "Run through peak fall foliage with stunning mountain and lake views. A photographer's dream course.",
+      "expected_attendance": 2400,
+      "registration_fee": {
+        "5K": 44,
+        "10K": 54,
+        "half_marathon": 80
+      },
+      "features": ["fall_scenery", "photo_opportunities", "maple_syrup_finish"]
+    },
+    {
+      "id": "race_012",
+      "name": "Music City Marathon Weekend",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Nashville",
+        "state": "Tennessee",
+        "venue": "Downtown Nashville"
+      },
+      "date": "2026-04-25",
+      "time": "07:00",
+      "terrain": ["road"],
+      "description": "Run through Music City with live bands at every mile. Experience Nashville's vibrant music scene while racing!",
+      "expected_attendance": 7800,
+      "registration_fee": {
+        "5K": 50,
+        "10K": 60,
+        "half_marathon": 95
+      },
+      "features": ["live_music", "downtown_route", "honky_tonk_finish_party"]
+    },
+    {
+      "id": "race_013",
+      "name": "Gulf Coast Breeze",
+      "type": "beach_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Clearwater",
+        "state": "Florida",
+        "venue": "Clearwater Beach"
+      },
+      "date": "2026-03-14",
+      "time": "07:00",
+      "terrain": ["road", "beach"],
+      "description": "Start on the road, finish on the beach! Portions of the course take you along packed sand with ocean views.",
+      "expected_attendance": 4100,
+      "registration_fee": {
+        "5K": 48,
+        "10K": 58,
+        "half_marathon": 88
+      },
+      "features": ["beach_finish", "ocean_views", "post_race_beach_party", "tropical_theme"]
+    },
+    {
+      "id": "race_014",
+      "name": "Gateway City Challenge",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "St. Louis",
+        "state": "Missouri",
+        "venue": "Forest Park"
+      },
+      "date": "2026-09-19",
+      "time": "07:30",
+      "terrain": ["road"],
+      "description": "Run through one of America's largest urban parks with views of the iconic Gateway Arch.",
+      "expected_attendance": 5200,
+      "registration_fee": {
+        "5K": 45,
+        "10K": 55,
+        "half_marathon": 85
+      },
+      "features": ["arch_views", "park_setting", "bbq_finish_festival"]
+    },
+    {
+      "id": "race_015",
+      "name": "Mountain State Classic",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Asheville",
+        "state": "North Carolina",
+        "venue": "Blue Ridge Parkway"
+      },
+      "date": "2026-05-30",
+      "time": "08:00",
+      "terrain": ["road"],
+      "description": "Challenging course with rolling hills and spectacular Blue Ridge Mountain views.",
+      "expected_attendance": 3100,
+      "registration_fee": {
+        "5K": 43,
+        "10K": 53,
+        "half_marathon": 83
+      },
+      "features": ["mountain_views", "challenging_course", "craft_brewery_finish"]
+    },
+    {
+      "id": "race_016",
+      "name": "Twin Cities Grand Prix",
+      "type": "road_race",
+      "distances": ["5K", "10K", "half_marathon"],
+      "location": {
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "venue": "Mississippi River Road"
+      },
+      "date": "2026-08-15",
+      "time": "07:00",
+      "terrain": ["road"],
+      "description": "Fast, flat course along the Mississippi River connecting Minneapolis and St. Paul.",
+      "expected_attendance": 6800,
+      "registration_fee": {
+        "5K": 47,
+        "10K": 57,
+        "half_marathon": 87
+      },
+      "features": ["river_views", "fast_course", "pr_potential", "twin_cities_tour"]
+    },
+    {
+      "id": "race_017",
+      "name": "Big Sur Coastal Marathon",
+      "type": "road_race",
+      "distances": ["half_marathon", "marathon"],
+      "location": {
+        "city": "Big Sur",
+        "state": "California",
+        "venue": "Highway 1"
+      },
+      "date": "2026-04-26",
+      "time": "06:45",
+      "terrain": ["road"],
+      "description": "One of the most scenic marathons in the world. Run along dramatic coastal cliffs with breathtaking Pacific views.",
+      "expected_attendance": 4500,
+      "registration_fee": {
+        "half_marathon": 180,
+        "marathon": 295
+      },
+      "features": ["bucket_list_race", "coastal_views", "challenging_elevation", "piano_man_aid_station"],
+      "elevation_gain": {
+        "half_marathon": 800,
+        "marathon": 2100
+      }
+    },
+    {
+      "id": "race_018",
+      "name": "New York City Fall Classic",
+      "type": "road_race",
+      "distances": ["half_marathon", "marathon"],
+      "location": {
+        "city": "New York",
+        "state": "New York",
+        "venue": "Central Park"
+      },
+      "date": "2026-11-01",
+      "time": "08:00",
+      "terrain": ["road"],
+      "description": "Experience the energy of NYC with a tour through all five boroughs. One of the world's major marathons!",
+      "expected_attendance": 52000,
+      "registration_fee": {
+        "half_marathon": 150,
+        "marathon": 295
+      },
+      "features": ["world_major_marathon", "five_boroughs", "massive_crowds", "iconic_finish"]
+    },
+    {
+      "id": "race_019",
+      "name": "Rocky Mountain Trail Festival",
+      "type": "trail_race",
+      "distances": ["half_marathon", "marathon"],
+      "location": {
+        "city": "Breckenridge",
+        "state": "Colorado",
+        "venue": "Breckenridge Ski Resort Trails"
+      },
+      "date": "2026-07-18",
+      "time": "06:00",
+      "terrain": ["trail"],
+      "description": "High-altitude trail running at its finest. Technical terrain with stunning alpine views and wildflowers.",
+      "expected_attendance": 1200,
+      "registration_fee": {
+        "half_marathon": 110,
+        "marathon": 165
+      },
+      "features": ["high_altitude", "technical_trails", "alpine_scenery", "mountain_town_vibes"],
+      "elevation_gain": {
+        "half_marathon": 2400,
+        "marathon": 4800
+      },
+      "altitude": {
+        "start": 9600,
+        "max": 11800
+      }
+    },
+    {
+      "id": "race_020",
+      "name": "Lakeside Marathon Challenge",
+      "type": "road_race",
+      "distances": ["half_marathon", "marathon"],
+      "location": {
+        "city": "Madison",
+        "state": "Wisconsin",
+        "venue": "Lake Monona Loop"
+      },
+      "date": "2026-05-24",
+      "time": "07:00",
+      "terrain": ["road"],
+      "description": "Fast, flat course circling beautiful Lake Monona. Perfect for first-time marathoners and PR seekers.",
+      "expected_attendance": 3800,
+      "registration_fee": {
+        "half_marathon": 95,
+        "marathon": 135
+      },
+      "features": ["flat_course", "lakeside_views", "pr_friendly", "wisconsin_hospitality"]
+    },
+    {
+      "id": "race_021",
+      "name": "Pacific Coast Beach Marathon",
+      "type": "beach_race",
+      "distances": ["half_marathon", "marathon"],
+      "location": {
+        "city": "Malibu",
+        "state": "California",
+        "venue": "Pacific Coast Highway"
+      },
+      "date": "2026-09-12",
+      "time": "06:30",
+      "terrain": ["road", "beach"],
+      "description": "Start on PCH, then transition to packed sand beach running with ocean breeze and stunning coastal views.",
+      "expected_attendance": 2600,
+      "registration_fee": {
+        "half_marathon": 115,
+        "marathon": 170
+      },
+      "features": ["beach_running", "ocean_views", "unique_terrain", "surfer_vibes"]
+    },
+    {
+      "id": "race_022",
+      "name": "Moab Desert Ultra",
+      "type": "ultra_race",
+      "distances": ["100_mile"],
+      "location": {
+        "city": "Moab",
+        "state": "Utah",
+        "venue": "Behind the Rocks Trail System"
+      },
+      "date": "2026-10-10",
+      "time": "05:00",
+      "terrain": ["trail"],
+      "description": "Legendary 100-miler through red rock desert country. Technical slickrock, canyon views, and serious elevation.",
+      "expected_attendance": 350,
+      "registration_fee": 495,
+      "features": ["100_mile", "desert_scenery", "technical_terrain", "slot_canyons", "self_supported_sections"],
+      "elevation_gain": 18500,
+      "cutoff_time": "36_hours",
+      "aid_stations": 12,
+      "difficulty": "extreme"
+    },
+    {
+      "id": "race_023",
+      "name": "Appalachian Trail 100",
+      "type": "ultra_race",
+      "distances": ["100_mile"],
+      "location": {
+        "city": "Front Royal",
+        "state": "Virginia",
+        "venue": "Appalachian Trail - Shenandoah Section"
+      },
+      "date": "2026-06-05",
+      "time": "04:00",
+      "terrain": ["trail"],
+      "description": "Grueling 100-mile point-to-point on the iconic Appalachian Trail. Rocks, roots, and relentless climbs.",
+      "expected_attendance": 280,
+      "registration_fee": 525,
+      "features": ["100_mile", "appalachian_trail", "point_to_point", "mountain_scenery", "crew_access_limited"],
+      "elevation_gain": 21000,
+      "cutoff_time": "38_hours",
+      "aid_stations": 15,
+      "difficulty": "extreme",
+      "qualifier_required": true
+    }
+  ],
+  "metadata": {
+    "total_races": 23,
+    "race_types": {
+      "fun_runs": 2,
+      "standard_races": 15,
+      "marathon_events": 5,
+      "ultra_races": 2
+    },
+    "terrain_distribution": {
+      "road": 17,
+      "trail": 3,
+      "mixed": 3
+    },
+    "distances_offered": ["5K", "10K", "half_marathon", "marathon", "100_mile"],
+    "last_updated": "2025-11-24"
+  }
+}

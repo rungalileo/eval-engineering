@@ -1,0 +1,878 @@
+{
+  "shoes": [
+    {
+      "brand_id": "nyxon",
+      "shoe_id": "skyrun-41",
+      "model_name": "Skyrun 41",
+      "category": "daily_trainer",
+      "intended_use": [
+        "easy_runs",
+        "daily_miles",
+        "recovery"
+      ],
+      "marketing_copy": "Float through everyday mileage with Skyrun 41—soft landings, snappy toe-off, and a ride that disappears underfoot.",
+      "materials": {
+        "upper": "AeroKnit+ engineered mesh with FusionWrap eyelets",
+        "midsole": "IonBurst v3 foam (nitrogen-expanded EVA blend)",
+        "plate": null,
+        "outsole": "RoadGrip LT rubber with decoupled crash pad"
+      },
+      "tech": {
+        "rocker": "Flow-Roll Geometry 6°",
+        "insole": "CoolStep Ortholite",
+        "compound_names": [
+          "IonBurst v3",
+          "RoadGrip LT"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 9.2,
+        "drop_mm": 10,
+        "stack_forefoot_mm": 30,
+        "stack_heel_mm": 40
+      },
+      "fit": {
+        "widths": [
+          "standard",
+          "wide"
+        ],
+        "notes": "True to size; plush heel collar"
+      },
+      "colors": [
+        "Sky/Volt",
+        "Black/White",
+        "Sunset/Ink"
+      ],
+      "price_usd": 140,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "nyxon",
+      "shoe_id": "astrotempo",
+      "model_name": "AstroTempo",
+      "category": "tempo_trainer",
+      "intended_use": [
+        "tempo_runs",
+        "intervals",
+        "long_progressions"
+      ],
+      "marketing_copy": "A light, firm platform with an elastic snap—AstroTempo turns threshold days into cruise control.",
+      "materials": {
+        "upper": "MonoMesh AeroWeave with printed overlays",
+        "midsole": "PhotonFuse PEBA blend",
+        "plate": "FlexWing TPU fork (partial forefoot)",
+        "outsole": "GripPrime blown rubber in forefoot; carbon-injected heel crash pad"
+      },
+      "tech": {
+        "rocker": "SpeedArc 5°",
+        "compound_names": [
+          "PhotonFuse",
+          "FlexWing",
+          "GripPrime"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 7.8,
+        "drop_mm": 8,
+        "stack_forefoot_mm": 28,
+        "stack_heel_mm": 36
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Performance fit; snug midfoot"
+      },
+      "colors": [
+        "Lime Flash",
+        "Glacier/Ink"
+      ],
+      "price_usd": 165,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "nyxon",
+      "shoe_id": "vyperfly-pro",
+      "model_name": "Vyperfly Pro",
+      "category": "carbon_racer",
+      "intended_use": [
+        "race_day_5k_to_marathon"
+      ],
+      "marketing_copy": "Supershoe power with effortless turnover—Vyperfly Pro channels energy forward with every step.",
+      "materials": {
+        "upper": "FeatherFilm single-layer mesh with MicroLock laces",
+        "midsole": "PhotonFuse Pro dual-density PEBA",
+        "plate": "CarbonXrive one-piece full-length plate",
+        "outsole": "RaceGrip RS rubber islands"
+      },
+      "tech": {
+        "rocker": "PropelCurve 10°",
+        "compound_names": [
+          "PhotonFuse Pro",
+          "CarbonXrive",
+          "RaceGrip RS"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 7.0,
+        "drop_mm": 8,
+        "stack_forefoot_mm": 34,
+        "stack_heel_mm": 42
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Snug race fit; airy toebox"
+      },
+      "colors": [
+        "Laser Crimson",
+        "Iridescent Ice"
+      ],
+      "price_usd": 275,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "nyxon",
+      "shoe_id": "zagora-ridge",
+      "model_name": "Zagora Ridge",
+      "category": "trail",
+      "intended_use": [
+        "trail_runs",
+        "technical_terrain",
+        "light_hiking"
+      ],
+      "marketing_copy": "Grip and glide for mixed mountain days—Zagora Ridge pairs toothy lugs with a rockered ride.",
+      "materials": {
+        "upper": "Ripstop Mesh+ with ToeShield film",
+        "midsole": "IonBurst Trail foam with StoneGuard plate",
+        "plate": "StoneGuard flex plate (nylon composite)",
+        "outsole": "TerraClaw XT 4 mm lugs"
+      },
+      "tech": {
+        "rocker": "TrailRoll 6°",
+        "compound_names": [
+          "IonBurst Trail",
+          "StoneGuard",
+          "TerraClaw XT"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 10.0,
+        "drop_mm": 6,
+        "stack_forefoot_mm": 28,
+        "stack_heel_mm": 34
+      },
+      "fit": {
+        "widths": [
+          "standard",
+          "wide"
+        ],
+        "notes": "Secure heel; roomier toe for splay"
+      },
+      "colors": [
+        "Forest/Flare",
+        "Stone/Ink"
+      ],
+      "price_usd": 155,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "adizone",
+      "shoe_id": "strikelite-sl",
+      "model_name": "Strikelite SL",
+      "category": "daily_trainer",
+      "intended_use": [
+        "daily_miles",
+        "easy_runs"
+      ],
+      "marketing_copy": "An all-rounder that feels lively, not mushy—Strikelite SL balances cushion and stability for dependable mileage.",
+      "materials": {
+        "upper": "AirStrand engineered mesh with internal sling",
+        "midsole": "LightVector foam (supercritical EVA/TPU blend)",
+        "plate": null,
+        "outsole": "Adiwear+ carbon rubber pods"
+      },
+      "tech": {
+        "rocker": "StrideGuide 4°",
+        "compound_names": [
+          "LightVector",
+          "Adiwear+"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 9.0,
+        "drop_mm": 9,
+        "stack_forefoot_mm": 30,
+        "stack_heel_mm": 39
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Secure midfoot, accommodating forefoot"
+      },
+      "colors": [
+        "Cobalt/Signal",
+        "White/Black"
+      ],
+      "price_usd": 135,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "adizone",
+      "shoe_id": "bastion-13",
+      "model_name": "Bastion 13",
+      "category": "tempo_trainer",
+      "intended_use": [
+        "tempo_runs",
+        "speedwork",
+        "long_tempos"
+      ],
+      "marketing_copy": "Firm underfoot with a fast-roll rocker—Bastion 13 is your weekday speed partner.",
+      "materials": {
+        "upper": "StratoMesh mono-filament knit",
+        "midsole": "LightVector Pro foam",
+        "plate": "SprintFork forefoot plate (PEBAX)",
+        "outsole": "TraxionGrid blown rubber forefoot, carbon heel sheet"
+      },
+      "tech": {
+        "rocker": "QuickRoll 7°",
+        "compound_names": [
+          "LightVector Pro",
+          "SprintFork",
+          "TraxionGrid"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 7.6,
+        "drop_mm": 8,
+        "stack_forefoot_mm": 30,
+        "stack_heel_mm": 38
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Performance last; locks midfoot"
+      },
+      "colors": [
+        "Signal Orange",
+        "Ice Mint"
+      ],
+      "price_usd": 170,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "adizone",
+      "shoe_id": "adion-pro-4",
+      "model_name": "Adion Pro 4",
+      "category": "carbon_racer",
+      "intended_use": [
+        "race_day_10k_to_marathon"
+      ],
+      "marketing_copy": "A hyper-light racer with tuned stiffness that loads and releases like a spring.",
+      "materials": {
+        "upper": "StrungWeave race mesh with micro-suede heel pods",
+        "midsole": "LightVector Elite (dual-stack PEBA)",
+        "plate": "EnergyRods+ carbon array (five-rod system)",
+        "outsole": "Quickbite RS rubber"
+      },
+      "tech": {
+        "rocker": "RaceArc 9°",
+        "compound_names": [
+          "LightVector Elite",
+          "EnergyRods+",
+          "Quickbite RS"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 6.9,
+        "drop_mm": 6,
+        "stack_forefoot_mm": 32,
+        "stack_heel_mm": 38
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Low-volume race fit"
+      },
+      "colors": [
+        "Pulse Yellow",
+        "Core Black"
+      ],
+      "price_usd": 280,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "adizone",
+      "shoe_id": "terraraptor-tr",
+      "model_name": "TerraRaptor TR",
+      "category": "trail",
+      "intended_use": [
+        "trail_runs",
+        "muddy_tracks",
+        "rocky_paths"
+      ],
+      "marketing_copy": "Aggressive lugs meet a smooth transition for fast trail efforts and mixed terrain.",
+      "materials": {
+        "upper": "Ripstop StratoMesh with welded rand",
+        "midsole": "TrailVector foam with StoneWeb layer",
+        "plate": "StoneWeb rock matrix (V-weave composite)",
+        "outsole": "RaptorGrip rubber, 4.5 mm chevron lugs"
+      },
+      "tech": {
+        "rocker": "TrailArc 5°",
+        "compound_names": [
+          "TrailVector",
+          "StoneWeb",
+          "RaptorGrip"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 10.2,
+        "drop_mm": 6,
+        "stack_forefoot_mm": 26,
+        "stack_heel_mm": 32
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Secure heel with protective toe"
+      },
+      "colors": [
+        "Earth/Volt",
+        "Night Sky"
+      ],
+      "price_usd": 160,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "hokaro",
+      "shoe_id": "clifftop-10",
+      "model_name": "Clifftop 10",
+      "category": "daily_trainer",
+      "intended_use": [
+        "easy_runs",
+        "long_runs",
+        "walking"
+      ],
+      "marketing_copy": "Signature stack with a feather feel—Clifftop 10 smooths out rough sidewalks and long days.",
+      "materials": {
+        "upper": "BreathWeave mesh with memory foam heel pods",
+        "midsole": "CloudLoft v4 supercritical foam",
+        "plate": null,
+        "outsole": "HiAbrasive rubber crash rails"
+      },
+      "tech": {
+        "rocker": "MetaFlow Rocker (early stage)",
+        "compound_names": [
+          "CloudLoft v4",
+          "HiAbrasive"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 8.9,
+        "drop_mm": 5,
+        "stack_forefoot_mm": 33,
+        "stack_heel_mm": 38
+      },
+      "fit": {
+        "widths": [
+          "standard",
+          "wide"
+        ],
+        "notes": "Roomy forefoot; soft heel counter"
+      },
+      "colors": [
+        "Fog/Glacier",
+        "Citrus/Ink"
+      ],
+      "price_usd": 145,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "hokaro",
+      "shoe_id": "fusejet-3",
+      "model_name": "FuseJet 3",
+      "category": "carbon_racer",
+      "intended_use": [
+        "race_day_half_to_marathon"
+      ],
+      "marketing_copy": "Tall stack, stable plate, absurdly smooth roll—FuseJet 3 turns stride into flight.",
+      "materials": {
+        "upper": "FeatherFilm+ translucent mesh",
+        "midsole": "CloudLoft Elite dual-layer PEBA",
+        "plate": "CarbonStream full-length spooned plate",
+        "outsole": "GripWave high-friction rubber patches"
+      },
+      "tech": {
+        "rocker": "HyperRocker 12°",
+        "compound_names": [
+          "CloudLoft Elite",
+          "CarbonStream",
+          "GripWave"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 7.5,
+        "drop_mm": 5,
+        "stack_forefoot_mm": 36,
+        "stack_heel_mm": 40
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Race-oriented; secure midfoot strap"
+      },
+      "colors": [
+        "Aurora/White",
+        "Black/Reflect"
+      ],
+      "price_usd": 285,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "hokaro",
+      "shoe_id": "bondar-9",
+      "model_name": "Bondar 9",
+      "category": "max_cushion",
+      "intended_use": [
+        "recovery_runs",
+        "long_easy",
+        "all_day_standing"
+      ],
+      "marketing_copy": "Pillow-soft cushioning without the squish—Bondar 9 keeps form tidy over big mileage.",
+      "materials": {
+        "upper": "SoftKnit 3D jacquard",
+        "midsole": "CloudLoft MAX nitrogen-infused foam",
+        "plate": null,
+        "outsole": "HiAbrasive+ rubber with midfoot guidance rail"
+      },
+      "tech": {
+        "rocker": "MetaFlow Rocker (late stage)",
+        "compound_names": [
+          "CloudLoft MAX",
+          "HiAbrasive+"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 10.6,
+        "drop_mm": 4,
+        "stack_forefoot_mm": 34,
+        "stack_heel_mm": 38
+      },
+      "fit": {
+        "widths": [
+          "standard",
+          "wide"
+        ],
+        "notes": "Generous volume; plush tongue"
+      },
+      "colors": [
+        "Ice/Bluebird",
+        "Charcoal/Lime"
+      ],
+      "price_usd": 170,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "hokaro",
+      "shoe_id": "peakrunner-6",
+      "model_name": "PeakRunner 6",
+      "category": "trail",
+      "intended_use": [
+        "mountain_trails",
+        "ultras",
+        "fire_roads"
+      ],
+      "marketing_copy": "High-stack trail comfort with confidence on rock and roots.",
+      "materials": {
+        "upper": "HydroGuard mesh, abrasion film rand",
+        "midsole": "CloudLoft Trail foam with stability insert",
+        "plate": "StoneShield composite plate",
+        "outsole": "GripWave Trail rubber, 5 mm multidirectional lugs"
+      },
+      "tech": {
+        "rocker": "TrailFlow Rocker",
+        "compound_names": [
+          "CloudLoft Trail",
+          "StoneShield",
+          "GripWave Trail"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 10.9,
+        "drop_mm": 4,
+        "stack_forefoot_mm": 30,
+        "stack_heel_mm": 34
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Midfoot lock with roomy toebox"
+      },
+      "colors": [
+        "Pine/Flare",
+        "Slate/Neon"
+      ],
+      "price_usd": 165,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "saukion",
+      "shoe_id": "endurfin-swift-5",
+      "model_name": "Endurfin Swift 5",
+      "category": "tempo_trainer",
+      "intended_use": [
+        "tempo_runs",
+        "speedwork",
+        "long_runs"
+      ],
+      "marketing_copy": "Nimble, protective, and addictive—Swift 5 is the do-it-all speed shoe.",
+      "materials": {
+        "upper": "SpeedWeave knit with internal S-band",
+        "midsole": "PWRRebound foam (PEBA/EVA hybrid)",
+        "plate": "SpringArc nylon plate (partial)",
+        "outsole": "SpeedTrack blown rubber"
+      },
+      "tech": {
+        "rocker": "S-Curve 7°",
+        "compound_names": [
+          "PWRRebound",
+          "SpringArc",
+          "SpeedTrack"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 7.9,
+        "drop_mm": 8,
+        "stack_forefoot_mm": 30,
+        "stack_heel_mm": 38
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Snug heel; medium forefoot"
+      },
+      "colors": [
+        "Volt/Shadow",
+        "White/Teal"
+      ],
+      "price_usd": 180,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "saukion",
+      "shoe_id": "endurfin-pro-4",
+      "model_name": "Endurfin Pro 4",
+      "category": "carbon_racer",
+      "intended_use": [
+        "race_day_5k_to_marathon"
+      ],
+      "marketing_copy": "A crisp, efficient stride and powerful rebound make Pro 4 a PR hunter.",
+      "materials": {
+        "upper": "FeatherKnit mono mesh with heel sling",
+        "midsole": "PWRRebound Pro dual-layer PEBA",
+        "plate": "CarbonPulse plate (full length)",
+        "outsole": "SpeedTrack RS rubber"
+      },
+      "tech": {
+        "rocker": "S-Curve Race 10°",
+        "compound_names": [
+          "PWRRebound Pro",
+          "CarbonPulse",
+          "SpeedTrack RS"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 7.1,
+        "drop_mm": 8,
+        "stack_forefoot_mm": 32,
+        "stack_heel_mm": 40
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Race fit; thin tongue"
+      },
+      "colors": [
+        "Flash Coral",
+        "Arctic Blue"
+      ],
+      "price_usd": 270,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "saukion",
+      "shoe_id": "shiftline-max",
+      "model_name": "Shiftline Max",
+      "category": "max_cushion",
+      "intended_use": [
+        "recovery_runs",
+        "daily_miles",
+        "walk_commute"
+      ],
+      "marketing_copy": "Max stack with a centered, stable platform to reduce fatigue across long weeks.",
+      "materials": {
+        "upper": "AirKnit comfort mesh",
+        "midsole": "CushionCore MAX foam",
+        "plate": null,
+        "outsole": "Duratrak rubber with guidance rails"
+      },
+      "tech": {
+        "rocker": "StabilityFlow 4°",
+        "compound_names": [
+          "CushionCore MAX",
+          "Duratrak"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 10.3,
+        "drop_mm": 6,
+        "stack_forefoot_mm": 32,
+        "stack_heel_mm": 38
+      },
+      "fit": {
+        "widths": [
+          "standard",
+          "wide"
+        ],
+        "notes": "Broad base; plush interior"
+      },
+      "colors": [
+        "Navy/Gold",
+        "Grey/Lime"
+      ],
+      "price_usd": 160,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "saukion",
+      "shoe_id": "pilgrim-trail-13",
+      "model_name": "Pilgrim Trail 13",
+      "category": "trail",
+      "intended_use": [
+        "all_trail",
+        "door_to_trail",
+        "rainy_days"
+      ],
+      "marketing_copy": "Confident traction and drainage for fast, scrappy singletrack.",
+      "materials": {
+        "upper": "HydroVent mesh with toe film",
+        "midsole": "CushionCore Trail foam",
+        "plate": "RockGuard band (forefoot)",
+        "outsole": "TrailClutch rubber, 4 mm chevron lugs"
+      },
+      "tech": {
+        "rocker": "Trail S-Curve 6°",
+        "compound_names": [
+          "CushionCore Trail",
+          "RockGuard",
+          "TrailClutch"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 9.8,
+        "drop_mm": 4,
+        "stack_forefoot_mm": 27,
+        "stack_heel_mm": 31
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Slightly narrow; consider half size up for ultras"
+      },
+      "colors": [
+        "Olive/Flare",
+        "Black/Flint"
+      ],
+      "price_usd": 150,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "brukes",
+      "shoe_id": "specter-16",
+      "model_name": "Specter 16",
+      "category": "daily_trainer",
+      "intended_use": [
+        "daily_miles",
+        "easy_runs"
+      ],
+      "marketing_copy": "Stable, smooth, and wildly versatile—Specter 16 is the default choice for most days.",
+      "materials": {
+        "upper": "AirWeave mesh with padded gusseted tongue",
+        "midsole": "DNAFloat v3 nitrogen-infused foam",
+        "plate": null,
+        "outsole": "SureGrip rubber, full ground contact"
+      },
+      "tech": {
+        "rocker": "GlideRail rocker",
+        "compound_names": [
+          "DNAFloat v3",
+          "SureGrip"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 9.8,
+        "drop_mm": 12,
+        "stack_forefoot_mm": 28,
+        "stack_heel_mm": 40
+      },
+      "fit": {
+        "widths": [
+          "narrow",
+          "standard",
+          "wide"
+        ],
+        "notes": "Secure heel; medium toe box"
+      },
+      "colors": [
+        "Graphite/White",
+        "Ocean/Volt"
+      ],
+      "price_usd": 140,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "brukes",
+      "shoe_id": "hyperium-max-2",
+      "model_name": "Hyperium Max 2",
+      "category": "tempo_trainer",
+      "intended_use": [
+        "tempo_runs",
+        "speedwork",
+        "short_races"
+      ],
+      "marketing_copy": "Lightweight, plated pop for workouts without the race-day price.",
+      "materials": {
+        "upper": "FeatherMesh with internal midfoot band",
+        "midsole": "DNAFlash Pro (PEBA/EVA mix)",
+        "plate": "RapidArc plate (nylon-composite)",
+        "outsole": "SureGrip+ forefoot coverage"
+      },
+      "tech": {
+        "rocker": "QuickRoll rocker",
+        "compound_names": [
+          "DNAFlash Pro",
+          "RapidArc",
+          "SureGrip+"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 7.7,
+        "drop_mm": 8,
+        "stack_forefoot_mm": 30,
+        "stack_heel_mm": 38
+      },
+      "fit": {
+        "widths": [
+          "standard"
+        ],
+        "notes": "Performance fit; breathable upper"
+      },
+      "colors": [
+        "Volt/Black",
+        "Frost/Navy"
+      ],
+      "price_usd": 175,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "brukes",
+      "shoe_id": "glyceride-21",
+      "model_name": "Glyceride 21",
+      "category": "max_cushion",
+      "intended_use": [
+        "recovery_runs",
+        "long_runs",
+        "walking"
+      ],
+      "marketing_copy": "Luxuriously soft foam tuned with a guidance rail for easy, consistent miles.",
+      "materials": {
+        "upper": "PlushKnit 2.0",
+        "midsole": "DNAFloat MAX foam",
+        "plate": null,
+        "outsole": "SureGrip MAX rubber"
+      },
+      "tech": {
+        "rocker": "GlideRail+ rocker",
+        "compound_names": [
+          "DNAFloat MAX",
+          "SureGrip MAX"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 10.4,
+        "drop_mm": 10,
+        "stack_forefoot_mm": 32,
+        "stack_heel_mm": 42
+      },
+      "fit": {
+        "widths": [
+          "standard",
+          "wide"
+        ],
+        "notes": "Roomy toe; soft step-in"
+      },
+      "colors": [
+        "Indigo/Glow",
+        "Smoke/Chrome"
+      ],
+      "price_usd": 170,
+      "release_year": 2025
+    },
+    {
+      "brand_id": "brukes",
+      "shoe_id": "adrenalite-gts-24",
+      "model_name": "Adrenalite GTS 24",
+      "category": "stability_trainer",
+      "intended_use": [
+        "daily_miles",
+        "easy_runs",
+        "mild_pronation_support"
+      ],
+      "marketing_copy": "Guided support that never feels bossy—smooth stability with a natural ride.",
+      "materials": {
+        "upper": "GuideMesh with external heel counter",
+        "midsole": "DNAFloat Support foam",
+        "plate": "GuideRails+ medial lateral support rails",
+        "outsole": "SureGrip durable rubber"
+      },
+      "tech": {
+        "rocker": "GuideRoll rocker",
+        "compound_names": [
+          "DNAFloat Support",
+          "GuideRails+"
+        ]
+      },
+      "specs": {
+        "weight_mens_9_usa_oz": 10.1,
+        "drop_mm": 12,
+        "stack_forefoot_mm": 29,
+        "stack_heel_mm": 41
+      },
+      "fit": {
+        "widths": [
+          "narrow",
+          "standard",
+          "wide"
+        ],
+        "notes": "Secure arch wrap"
+      },
+      "colors": [
+        "Charcoal/Orange",
+        "Blue/White"
+      ],
+      "price_usd": 155,
+      "release_year": 2025
+    }
+  ]
+}

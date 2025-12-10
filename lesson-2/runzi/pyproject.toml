@@ -1,0 +1,24 @@
+[project]
+name = "evals-demo-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chainlit>=2.8.3",
+    "python-dotenv>=1.2.1",
+    "pydantic>=2.7.0",
+    "galileo>=1.34.0",
+    "langgraph>=1.0.4",
+    "langchain[openai]>=1.1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.1.0",
+]
+
+[tool.setuptools]
+packages = ["evals_demo_app"]
+
