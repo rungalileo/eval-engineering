@@ -1,0 +1,510 @@
+[
+  {
+    "input": [
+      "I'm training for my first 10K and run mostly on roads. What kind of running shoes would you recommend from Nyxon Running Co. or Saukion Athletics?"
+    ]
+  },
+  {
+    "input": [
+      "I overpronate and usually get knee pain. Which stability shoe models from Hokaro Lab should I look at?",
+      "What kind of socks and tights should I pair with them for winter running?"
+    ]
+  },
+  {
+    "input": [
+      "I live in a very rainy city. Which Adizone Performance jackets are best for wet but not too cold conditions?"
+    ]
+  },
+  {
+    "input": [
+      "I'm on a tight budget. What are the most affordable daily trainers from Brukes RunLab for beginner runners?"
+    ]
+  },
+  {
+    "input": [
+      "Can you compare cushioned long-run shoes from Nyxon Running Co. and Hokaro Lab for marathon training?",
+      "Which would you pick for someone who is 6'2” and 200 lbs and runs 40 miles per week?"
+    ]
+  },
+  {
+    "input": [
+      "What lightweight racing flats would you suggest from Adizone Performance for a 5K?"
+    ]
+  },
+  {
+    "input": [
+      "I mostly run easy trail loops. Which trail shoe from Saukion Athletics has the best grip on muddy terrain?"
+    ]
+  },
+  {
+    "input": [
+      "I need a really breathable summer top. Which singlets from Brukes RunLab would be good for hot and humid conditions?"
+    ]
+  },
+  {
+    "input": [
+      "I often get blisters on long runs. Which sock options from Nyxon Running Co. could help, and what fabric should I look for?"
+    ]
+  },
+  {
+    "input": [
+      "What's a good rotation of two or three shoes across Nyxon Running Co., Hokaro Lab, and Saukion Athletics if I'm training for a marathon?",
+      "How should I assign each shoe to different types of workouts?"
+    ]
+  },
+  {
+    "input": [
+      "Can you design a 12-week training plan to take me from running 5K comfortably to my first half marathon?"
+    ]
+  },
+  {
+    "input": [
+      "I'm an absolute beginner. Can you give me an 8-week walk-run plan to get to running a 5K without stopping?"
+    ]
+  },
+  {
+    "input": [
+      "I want to break 50 minutes in the 10K. I currently run 3 times per week. Can you create a 10-week plan to hit that goal?",
+      "Where should I put speed workouts versus long runs in my week?"
+    ]
+  },
+  {
+    "input": [
+      "I'm training for a hilly trail half marathon. Can you build a 14-week plan that includes hill workouts and trail long runs?"
+    ]
+  },
+  {
+    "input": [
+      "I only have 4 days per week to train. Can you give me a half-marathon plan that fits into that schedule?"
+    ]
+  },
+  {
+    "input": [
+      "Can you create a marathon training plan for a runner aiming for 3:30, including weekly mileage targets and key sessions?"
+    ]
+  },
+  {
+    "input": [
+      "How should I structure my training week if I want to improve both my 5K speed and build general endurance?"
+    ]
+  },
+  {
+    "input": [
+      "I'm coming back from a long break. Can you design a conservative 6-week base-building plan before I start half-marathon training?"
+    ]
+  },
+  {
+    "input": [
+      "Can you create a 10-week plan focused on trail running for a beginner who usually runs on roads?"
+    ]
+  },
+  {
+    "input": [
+      "I'm stuck at a 4:30 marathon time. Can you build a 16-week plan that adds more structured speed work to help me improve?"
+    ]
+  },
+  {
+    "input": [
+      "Are there any upcoming road marathons within 200 miles of Seattle in the next 6 months?"
+    ]
+  },
+  {
+    "input": [
+      "Can you find a trail half marathon in late spring near Denver, ideally above 5,000 feet elevation?"
+    ]
+  },
+  {
+    "input": [
+      "I'm looking for a flat 5K race sometime next month around Chicago to try for a PR. What are my options?"
+    ]
+  },
+  {
+    "input": [
+      "Can you list a few popular fall marathons in Europe and tell me which ones are considered beginner-friendly?"
+    ]
+  },
+  {
+    "input": [
+      "Find me a 10K race that I can use as a tune-up 4–6 weeks before a major marathon in New York City.",
+      "Which one would best simulate marathon race-day conditions?"
+    ]
+  },
+  {
+    "input": [
+      "What are some night races or evening 5Ks in the next few months near Austin, Texas?"
+    ]
+  },
+  {
+    "input": [
+      "Can you suggest a series of races (5K, 10K, half marathon) spaced over the year that could build toward my first marathon?"
+    ]
+  },
+  {
+    "input": [
+      "I'd like to do a destination trail ultra someday. Can you show me a few 50K or 50-mile events with scenic courses?"
+    ]
+  },
+  {
+    "input": [
+      "I'm traveling to Tokyo in March. Are there any local 10K or half-marathon races that month that are foreigner-friendly?"
+    ]
+  },
+  {
+    "input": [
+      "Can you recommend a beginner-friendly charity 5K in my area in the next couple of months?"
+    ]
+  },
+  {
+    "input": [
+      "I finished my first marathon yesterday. What should my recovery look like over the next 7 days?"
+    ]
+  },
+  {
+    "input": [
+      "How much should I reduce my mileage during a recovery week after a hard training block?"
+    ]
+  },
+  {
+    "input": [
+      "What are the best recovery practices right after a tough interval session on the track?"
+    ]
+  },
+  {
+    "input": [
+      "I often feel sore calves after long downhill trail runs. What recovery strategies and exercises should I use?"
+    ]
+  },
+  {
+    "input": [
+      "How many rest days per week should a beginner have, and what can I do on those days to aid recovery?"
+    ]
+  },
+  {
+    "input": [
+      "Can you lay out a post-race recovery plan for a half marathon, including when I can safely start running again?"
+    ]
+  },
+  {
+    "input": [
+      "What are some good mobility drills and stretches specifically for runners who get tight hips?"
+    ]
+  },
+  {
+    "input": [
+      "I think I might be overtraining. What signs should I watch for, and how should I adjust my training and recovery?"
+    ]
+  },
+  {
+    "input": [
+      "How should I balance using ice baths, foam rolling, and compression gear after very long runs?"
+    ]
+  },
+  {
+    "input": [
+      "Can you propose a simple weekly recovery routine that I can stick to during marathon training?"
+    ]
+  },
+  {
+    "input": [
+      "How many grams of carbohydrates and protein should I aim for on a typical training day when I run 30 miles per week?"
+    ]
+  },
+  {
+    "input": [
+      "What should I eat the night before a half marathon for optimal performance?"
+    ]
+  },
+  {
+    "input": [
+      "Can you give me ideas for a good pre-run breakfast for a 90-minute long run?"
+    ]
+  },
+  {
+    "input": [
+      "I often get stomach cramps during races. How should I adjust my pre-race meal and during-race fueling?"
+    ]
+  },
+  {
+    "input": [
+      "Can you suggest an in-race fueling strategy for a 3-hour marathon, including gel timing and approximate carb intake per hour?"
+    ]
+  },
+  {
+    "input": [
+      "I'm trying to lose a bit of weight while training for a 10K. How should I adjust my calories without hurting performance?"
+    ]
+  },
+  {
+    "input": [
+      "What are some good recovery meals or snacks I can eat within 2 hours after a hard workout?"
+    ]
+  },
+  {
+    "input": [
+      "I'm vegetarian. Can you build a sample 3-day meal plan that supports half-marathon training?"
+    ]
+  },
+  {
+    "input": [
+      "How much water and electrolytes should I aim to drink during a hot summer long run lasting 2 hours?"
+    ]
+  },
+  {
+    "input": [
+      "Can you provide general guidelines on daily protein intake for runners, broken down by body weight?"
+    ]
+  },
+  {
+    "input": [
+      "I'm a midfoot striker running about 20 miles per week. Should I choose neutral or stability shoes from Adizone Performance?"
+    ]
+  },
+  {
+    "input": [
+      "What's the difference between maximal-cushion and lightweight shoes from Hokaro Lab, and when should I use each?",
+      "Could I reasonably rotate both types during the same training cycle?"
+    ]
+  },
+  {
+    "input": [
+      "I live where winters are icy. Which Saukion Athletics shoes have the best outsole grip for snow and slush?"
+    ]
+  },
+  {
+    "input": [
+      "I want to start doing track workouts. What spikes or racing flats from Nyxon Running Co. would work for 1500m to 5K events?"
+    ]
+  },
+  {
+    "input": [
+      "Can you recommend a full outfit (shoes, socks, shorts, top, jacket) from Brukes RunLab for a cold, windy long run?"
+    ]
+  },
+  {
+    "input": [
+      "What shoe drop should I look for if I have a history of Achilles issues, and which Hokaro Lab models match that?"
+    ]
+  },
+  {
+    "input": [
+      "Are there race-day singlets from Adizone Performance that are especially good for very humid conditions?"
+    ]
+  },
+  {
+    "input": [
+      "I prefer wider toe boxes. Which Nyxon Running Co. or Saukion Athletics shoes tend to run wide?"
+    ]
+  },
+  {
+    "input": [
+      "Can you suggest a comfortable daily trainer from Brukes RunLab that pairs well with a more aggressive Adizone Performance racing shoe?",
+      "How would you divide my weekly runs between the two shoes?"
+    ]
+  },
+  {
+    "input": [
+      "Can you design a 6-week plan to go from casual jogging to running my fastest possible 1-mile time?"
+    ]
+  },
+  {
+    "input": [
+      "I want to improve my trail technical skills. Can you create an 8-week plan that includes specific drills and workouts on rocky trails?"
+    ]
+  },
+  {
+    "input": [
+      "How should I modify my standard half-marathon plan if I can only run on a treadmill during weekdays?"
+    ]
+  },
+  {
+    "input": [
+      "Can you outline a 4-week tune-up plan between two 10K races so I can improve the second result?"
+    ]
+  },
+  {
+    "input": [
+      "I'm training for both a spring marathon and a summer trail ultra. Can you propose a 20-week macro-plan that prepares me for both?"
+    ]
+  },
+  {
+    "input": [
+      "How do I safely add a weekly speed session to my current routine of only easy runs?"
+    ]
+  },
+  {
+    "input": [
+      "Can you design a low-impact training plan that combines running and cycling for someone prone to shin splints?"
+    ]
+  },
+  {
+    "input": [
+      "What's a good weekly structure if I want to maintain marathon fitness in the off-season with lower mileage?"
+    ]
+  },
+  {
+    "input": [
+      "How should I adapt my training plan during the final 3-week taper before a big race?"
+    ]
+  },
+  {
+    "input": [
+      "I'm 50 years old and have been running for 10 years. Can you design a marathon plan that accounts for extra recovery time?"
+    ]
+  },
+  {
+    "input": [
+      "Find me a spring 10K that has a downhill or net-downhill course suitable for a PR attempt."
+    ]
+  },
+  {
+    "input": [
+      "What popular city marathons offer lottery entry systems, and how far in advance do I usually need to register?"
+    ]
+  },
+  {
+    "input": [
+      "Can you help me pick between two fall marathons: one hilly and scenic versus one flat and fast?",
+      "How should my training differ depending on which I choose?"
+    ]
+  },
+  {
+    "input": [
+      "Are there any trail relay races or team events I could join with friends later this year?"
+    ]
+  },
+  {
+    "input": [
+      "I'd like to run a race while traveling for work. How can I search for 5Ks or 10Ks in cities I'll be visiting over the next few months?"
+    ]
+  },
+  {
+    "input": [
+      "Can you suggest a race schedule that includes one event every 2–3 months to keep me motivated year-round?"
+    ]
+  },
+  {
+    "input": [
+      "Which races are known for being very beginner-friendly and not too crowded for a first-time half-marathoner?"
+    ]
+  },
+  {
+    "input": [
+      "Are there any races that offer both a 5K and a kids' fun run on the same day so my family can join?"
+    ]
+  },
+  {
+    "input": [
+      "Can you help me identify a local race series where points accumulate over multiple events?"
+    ]
+  },
+  {
+    "input": [
+      "After a hard interval workout, how long should I wait before doing my next quality session?"
+    ]
+  },
+  {
+    "input": [
+      "What's the difference between active recovery runs and full rest, and when should I choose one over the other?"
+    ]
+  },
+  {
+    "input": [
+      "How much sleep should recreational runners aim for, and how does lack of sleep affect recovery and performance?"
+    ]
+  },
+  {
+    "input": [
+      "Can you explain how to use heart-rate zones to manage recovery and prevent overtraining?"
+    ]
+  },
+  {
+    "input": [
+      "What strength-training exercises complement running and help with injury prevention and recovery?"
+    ]
+  },
+  {
+    "input": [
+      "Can you suggest a simple morning mobility routine I can do daily in under 10 minutes?"
+    ]
+  },
+  {
+    "input": [
+      "I feel sluggish in the afternoons after hard morning runs. How can I adjust my recovery habits to feel better?"
+    ]
+  },
+  {
+    "input": [
+      "What role does foam rolling actually play in recovery, and how often should I do it?"
+    ]
+  },
+  {
+    "input": [
+      "Can you outline a weekly schedule that balances hard workouts, easy runs, cross-training, and rest for optimal recovery?"
+    ]
+  },
+  {
+    "input": [
+      "How many calories should I roughly eat on a long-run day versus a rest day?"
+    ]
+  },
+  {
+    "input": [
+      "Can you create a sample race-week meal plan for a Sunday marathon, starting from the previous Monday?"
+    ]
+  },
+  {
+    "input": [
+      "What are good on-the-go snack ideas for runners to keep energy levels stable throughout the day?"
+    ]
+  },
+  {
+    "input": [
+      "How soon before a race should I stop trying new foods to avoid GI issues?"
+    ]
+  },
+  {
+    "input": [
+      "Can you explain the difference between sports drinks, gels, and chews and when to use each?"
+    ]
+  },
+  {
+    "input": [
+      "I don't like sweet gels. What alternative fueling options can I use during long runs and races?"
+    ]
+  },
+  {
+    "input": [
+      "Can you suggest a hydration and fueling plan for a hot, humid half marathon?"
+    ]
+  },
+  {
+    "input": [
+      "How should I adjust my nutrition on days when I do both a morning run and an evening gym session?"
+    ]
+  },
+  {
+    "input": [
+      "What micronutrients are especially important for runners, and how can I get them from whole foods?"
+    ]
+  },
+  {
+    "input": [
+      "Can you provide an example day of eating for a 140-pound runner doing 50 miles per week, including pre- and post-run nutrition?"
+    ]
+  },
+  {
+    "input": [
+      "I'm moving from road to sand running on the beach. How should I adjust my shoe choice and training plan?"
+    ]
+  },
+  {
+    "input": [
+      "I'm considering a minimalist shoe from Nyxon Running Co. How should I transition without getting injured?"
+    ]
+  },
+  {
+    "input": [
+      "Can you recommend race-day clothing and a pacing and fueling strategy for my first 10K where the forecast is cold and rainy?"
+    ]
+  }
+]

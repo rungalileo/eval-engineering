@@ -12,3 +12,6 @@ wheels/
 
 .env
 .env.tmp
+
+scripts/
+datasets/

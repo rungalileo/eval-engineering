@@ -3,6 +3,7 @@
         "chainlit",
         "dotenv",
         "evals",
+        "logstreams",
         "runzi"
     ],
     "python.testing.pytestArgs": [
