@@ -9,12 +9,12 @@ You can catch recordings of all the past lessons on the [Galileo YouTube Channel
 [![Lesson 1](./images/eval-engineering-thumbnail-1.png)](https://www.youtube.com/live/HnDnMFUTj2Y)
 [![Lesson 2](./images/eval-engineering-thumbnail-2.png)](https://www.youtube.com/live/aZz3ncrafRw)
 [![Lesson 3](./images/eval-engineering-thumbnail-3.png)](https://www.youtube.com/live/lCAfEF_qQgQ)
+[![Lesson 4](./images/eval-engineering-thumbnail-4.png)](https://www.youtube.com/live/I9jSJ5_MobA)
 
 ## Sign up for the lessons
 
 You can sign up for the remaining lessons for the first cohort from these links:
 
-[![Lesson 4](./images/eval-engineering-lesson-4.png)](https://luma.com/x2ztpa4f)
 [![Lesson 5](./images/eval-engineering-lesson-5.png)](https://luma.com/esoi6izo)
 
 ## Prerequisites
