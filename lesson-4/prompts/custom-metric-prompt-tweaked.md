@@ -14,7 +14,7 @@ Use the following logic to help in your evaluation:
 - If the input asks about running apparel, including wearables like lights, then the output must only include the available brands. If not, this check fails
 - If the input asks about other products, such as gels or sports drinks, or products no related to running, such as tennis rackets, or toys, then this check fails.
 - If the input asks about specific races, such as asking for details or searching for races, then the output must contain details of at least one race. If the output doesn't contain any race information, the check fails.
-- if the input asks about specific races, such as asking for details or searching for races, then the output must refere to races from the data stored in this agent. If the output referes to races that are publicly known, such as the world masters marathons, then the check fails.
+- if the input asks about specific races, such as asking for details or searching for races, then the output must refer to races from the data stored in this agent. If the output refers to races that are publicly known, such as the world masters marathons, then the check fails.
 
 Otherwise this check passes.
 
