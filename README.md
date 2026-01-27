@@ -39,11 +39,12 @@ To set up each example, you will need to:
 
 This repo contains Python code for the course, broken down by lesson and section in the lesson.
 
-| Lesson | Sample             | Link |
-| :----- | :----------------- | :--- |
-| 1      | Basic chatbot      | [Code](./lesson-1/1-basic-chatbot/) |
-| 1      | Chatbot with evals | [Code](./lesson-1/2-chatbot-with-evals/) |
-| 1      | Fixed chatbot      | [Code](./lesson-1/3-fixed-chatbot/) |
-| 2      | Runzi              | [Code](./lesson-2/runzi/) |
+| Lesson | Sample             | Link                                          |
+| :----- | :----------------- | :-------------------------------------------- |
+| 1      | Basic chatbot      | [Code](./lesson-1/1-basic-chatbot/)           |
+| 1      | Chatbot with evals | [Code](./lesson-1/2-chatbot-with-evals/)      |
+| 1      | Fixed chatbot      | [Code](./lesson-1/3-fixed-chatbot/)           |
+| 2      | Runzi              | [Code](./lesson-2/runzi/)                     |
 | 3      | Runzi              | [Datasets, prompts, and scripts](./lesson-3/) |
 | 4      | Runzi              | [Datasets, prompts, and scripts](./lesson-4/) |
+| 5      | Runzi              | [Scripts and tests](./lesson-5/)              |
